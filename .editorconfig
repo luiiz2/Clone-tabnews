@@ -1,0 +1,5 @@
+root = true
+
+[*]
+ident_style = sapce
+idente_syze = 2
